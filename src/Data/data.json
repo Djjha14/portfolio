@@ -1,0 +1,10 @@
+[
+    {
+        "projectId":"1",
+        "projectHeading":"Ping Pong",
+        "projectDesc":"Ping pong game.",
+        "imgSrc":"assests/pingpong.png",
+        "linkSrc":"https://pingponggamedjha.netlify.app/",
+        "code":"https://github.com/Djjha14/ping-pong"
+    }
+]

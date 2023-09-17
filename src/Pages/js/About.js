@@ -19,8 +19,8 @@ export default function About() {
               <span>Dipesh Jha</span>
               <p>I'M Specialist to develop Full Stack web app.</p>
               <p>
-                Learn from Coding Ninjas and certified in FULLSTACK <br /> Web
-                development program
+              "I have acquired knowledge from Coding Ninjas and obtained a certification in Full Stack " <br /> Web Development 
+        
               </p>
               <a download={true} href="../../../src/Data../../Data/Certificate.pdf">CERTIFICATE</a>
             </section>
